@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aipahzohs.s1mple.online/sitemap.xml
